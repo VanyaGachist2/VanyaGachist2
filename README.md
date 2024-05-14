@@ -1,5 +1,5 @@
 <h1 align="center" >Hi there, I'm VanyaGachist2 👋</h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F3F751&random=false&width=435&lines=Web-developer" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F3F751&random=false&width=435&lines=Web-developer" alt="Typing SVG" /></a>
 <table>
   <tbody>
     <tr>
@@ -35,6 +35,13 @@
           <a href="#"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/></a>
           <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
         </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!--START_SECTION:waka-->
+
+        <!--END_SECTION:waka-->
       </td>
     </tr>
   </tbody>
