@@ -39,9 +39,12 @@
     </tr>
     <tr>
       <td>
-        <!--START_SECTION:waka-->
-
-        <!--END_SECTION:waka-->
+        <h3>Statistics:</h3>
+        <div align="center">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanyaGachist2&theme=default" width="685px"/>
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VanyaGachist2&theme=default"/>
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanyaGachist2&theme=default"/>
+        </div>
       </td>
     </tr>
   </tbody>
