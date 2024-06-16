@@ -39,7 +39,7 @@
     </tr>
     <tr>
       <td>
-        <h3>Statistics:</h3>
+        <h3 align="center">Statistics:</h3>
         <div align="center">
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanyaGachist2&theme=default" width="685px"/>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VanyaGachist2&theme=default"/>
